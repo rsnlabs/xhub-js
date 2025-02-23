@@ -8,7 +8,7 @@ XHub uses artificial intelligence to deliver categorized NSFW images with ease. 
 ## 🚀 Installation
 
 ```bash
-npm i xhub
+npm i xhub-ai
 ```
 
 ## 🔑 API Key
@@ -22,7 +22,7 @@ To access XHub, you need an API key.
 ## 📂 Usage - Get Categories
 ```javascript
 
-const { XHub } = require("xhub");
+const { XHub } = require("xhub-ai");
 
 const xhub = new XHub("rsnlabs_××××××××××××××××××××××××××××××");
 
@@ -34,7 +34,7 @@ xhub.getCategories().then(category => {
 ## 🖼 Usage - Fetch NSFW Image
 ```javascript
 
-const { XHub } = require("xhub");
+const { XHub } = require("xhub-ai");
 
 const xhub = new XHub("rsnlabs_××××××××××××××××××××××××××××××");
 

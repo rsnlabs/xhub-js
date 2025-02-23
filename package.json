@@ -1,5 +1,5 @@
 {
-  "name": "xhub",
+  "name": "xhub-ai",
   "version": "1.0.0",
   "description": "XHub uses artificial intelligence to deliver categorized NSFW images with ease. Retrieve high-quality content securely using a simple API wrapper.",
   "type": "module",
